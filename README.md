@@ -1,21 +1,21 @@
 # Welcome to my GitHub
 
-## What I've done
+Engineer with experience in software engineering, including data science and full stack development. Areas of knowledge:
+Data Science:
+- Python
+- NumPy
+- Pandas
+- Jupyter Notebook
 
-- [Completed a HyperionDev Software Engineering bootcamp.](https://www.hyperiondev.com/portfolio/132467/)
+Full Stack:
+- React (Vite, NextJS)
+- Tanstack Router/Query
+- Tailwind
+- Auth and SQL databases - Supabase
+- Netlify - hosting
 
-## What I'm doing
+I have built a mechanical engineering web app using Vite, Tanstack Router, Tanstack Query, Typescript, Tailwind and Supabase. It collates multiple manual processes for any number of projects, including new part number generation, while managing project releases.
 
-- [Making minor tweaks to the final HyperionDev Capstone project](https://github.com/d-painter/HDev-T17-Task-Manager-Capstone-Project)
-- [Mortgage Calculator Project using React](https://project-mortgage-calculator.netlify.app/)
-- Looking to progress to knowledge of Python
-- Learn Web Dev languages
-  </br>
+Repo: https://github.com/d-painter/ems
 
-## What I want to do
-
-- Personal portfolio website
-- Basic CAD PLM system in Python
-- Meal macro calculator - webapp
-- General engineering toolsets - webapp
-- ~~Basic mortage calculator - webapp~~
+Hosted Site: https://eng-mgmt-sys.netlify.app/login/ Feel free to sign in via Google to use the site and create projects, parts etc.
